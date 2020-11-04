@@ -54,6 +54,11 @@ code {
   padding: 10px;
 }
 
+.hidden {
+  visibility: hidden;
+  height: 0;
+}
+
 /* NAVBAR */
 .navbar {
   background-color: var(--primary-color);
