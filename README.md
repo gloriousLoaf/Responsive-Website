@@ -9,7 +9,7 @@
 <p>&nbsp;</p>
 
 ## 🛠 Technologies
-* **HTML5, CSS3 and Vanilla JS.** All grid and utility classes built from scratch, using naming scheme borrowed from Bootstrap for familiarity.
+* **HTML5 and CSS3.** All grid and utility classes built from scratch, using naming scheme borrowed from Bootstrap for familiarity.
 * **Netlify** for deployment of the website demo. No backend for now.
 <p>&nbsp;</p>
 
